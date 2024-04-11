@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="366bfc1f-adb2-471d-82b6-5a76c7463ac1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jbcrypt_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT-MODULE02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/data/album.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/data/history.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/data/singer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/data/song.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/data/songcategory.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/data/user.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/data/userLogin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/design/IAlbumDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/design/IAuthentic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/design/IGenericDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/design/IHistoryDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/design/ISingerDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/design/ISongDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/design/IUserDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/designImp/AlbumServiceImplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/designImp/AuthenticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/designImp/HistoryServiceImplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/designImp/SingerServiceImplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/designImp/SongServiceImplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/designImp/UserServiceImplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/entity/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/entity/History.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/entity/Singer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/entity/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/utils/IOFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/utils/InputMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/business/utils/ShopConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/presentation/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/presentation/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/presentation/admin/AlbumManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/presentation/admin/HistoryManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/presentation/admin/MenuAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/presentation/admin/SingerManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/presentation/admin/SongManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/presentation/admin/UserManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/presentation/user/MenuUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/presentation/user/SearchMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/projectMD2/presentation/user/UserInfomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session1/src/baitap1/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ra/projectMD2/presentation/user/SearchMenu.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2engro5Od8axDIBxJoamXonkybs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Home.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ADMIN/Desktop/urlProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ADMIN/IdeaProjects/MD2-JAVA/PROJECT-MODULE02/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Home">
+    <configuration name="Home" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.projectMD2.presentation.Home" />
+      <module name="PROJECT-MODULE02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ra.projectMD2.presentation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.projectMD2.presentation.Main" />
+      <module name="PROJECT-MODULE02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ra.projectMD2.presentation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.projectMD2.presentation.Test" />
+      <module name="PROJECT-MODULE02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ra.projectMD2.presentation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.projectMD2.presentation.Test2" />
+      <module name="PROJECT-MODULE02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ra.projectMD2.presentation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Home" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="366bfc1f-adb2-471d-82b6-5a76c7463ac1" name="Changes" comment="" />
+      <created>1712545960011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712545960011</updated>
+      <workItem from="1712545961139" duration="2444000" />
+      <workItem from="1712564720660" duration="4479000" />
+      <workItem from="1712587282200" duration="14680000" />
+      <workItem from="1712623740069" duration="7727000" />
+      <workItem from="1712631489553" duration="22260000" />
+      <workItem from="1712675971663" duration="597000" />
+      <workItem from="1712703343935" duration="2839000" />
+      <workItem from="1712709931644" duration="9353000" />
+      <workItem from="1712719312268" duration="19338000" />
+      <workItem from="1712786807410" duration="4583000" />
+      <workItem from="1712795879671" duration="1515000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
